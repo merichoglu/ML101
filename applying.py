@@ -38,13 +38,27 @@ print("R^2 Score:", r2)
 
 # Random sampling for visualization
 np.random.seed(42)
-sample_indices = np.random.choice(len(y_test), size=500, replace=False)  # Random sample of 500 points
+sample_indices = np.random.choice(
+    len(y_test), size=500, replace=False
+)  # Random sample of 500 points
 
 plt.figure(figsize=(10, 6))
-plt.scatter(y_test[sample_indices], predictions[sample_indices], edgecolors=(0, 0, 0), alpha=0.6, label='Predicted vs Actual')
-plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], 'k--', lw=2, label='Perfect Prediction')
-plt.xlabel('Actual Values')
-plt.ylabel('Predicted Values')
-plt.title('Predicted vs Actual Values (Sampled)')
+plt.scatter(
+    y_test[sample_indices],
+    predictions[sample_indices],
+    edgecolors=(0, 0, 0),
+    alpha=0.6,
+    label="Predicted vs Actual",
+)
+plt.plot(
+    [y_test.min(), y_test.max()],
+    [y_test.min(), y_test.max()],
+    "k--",
+    lw=2,
+    label="Perfect Prediction",
+)
+plt.xlabel("Actual Values")
+plt.ylabel("Predicted Values")
+plt.title("Predicted vs Actual Values (Sampled)")
 plt.legend()
 plt.show()

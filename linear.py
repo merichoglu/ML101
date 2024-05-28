@@ -62,7 +62,7 @@ class LinearRegression:
                 gradients += self.alpha * np.sign(theta)
             elif self.regularization == "ridge":
                 gradients += self.alpha * theta
-                gradients[0] -= self.alpha * theta[0]  # do not regularize the intercept term
+                gradients[0] -= self.alpha * theta[0]   # do not regularize the intercept term
             theta -= self.learning_rate * gradients
 
         self.intercept = theta[0]

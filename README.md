@@ -8,7 +8,7 @@ Welcome to the Linear Regression Workshop for the METU CClub 24-25 season! This 
 
 1. **Introduction to Linear Regression**
    - Understanding the concept of linear regression
-   - Mathematical representation of linear regression
+   - Mathematical representation of linear regression (yes, we will be using the blackboard!)
 
 2. **Implementation in Python**
    - Using `scikit-learn` for linear regression
@@ -20,7 +20,7 @@ Welcome to the Linear Regression Workshop for the METU CClub 24-25 season! This 
    - Understanding key metrics like R-squared, Mean Squared Error, etc.
 
 4. **Assumptions of Linear Regression**
-   - Discussing the key assumptions behind linear regression
+   - Discussing the key assumptions behind linear regression like linearity, homoscedasticity, etc.
    - Techniques to check these assumptions
 
 5. **Limitations and Overcoming Them**
@@ -32,15 +32,16 @@ Welcome to the Linear Regression Workshop for the METU CClub 24-25 season! This 
    - Applying the learned concepts in practice
 
 ## Prerequisites
-
-- Basic knowledge of Python programming
-- Familiarity with fundamental mathematical concepts
+- MATH 119 (Calculus I), MATH 120 (Calculus II), MATH 260 (Linear Algebra), STAT 363 (Linear Models) are MUSTs. Said no one ever. But they are nice to have. Just kidding. You don't need to have taken these courses to attend the workshop. We will cover the necessary mathematical concepts during the workshop.
+- Basic knowledge of Python programming (printing "Hello, World!", defining variables, etc. Not much honestly. We will cover what is needed.).
+- Familiarity with fundamental mathematical concepts like linear algebra (matrices, vectors, etc.) and calculus (derivatives, integrals, etc.) would make things easier for you, but we will explain everything you need to know.
+- Don't worry, we will cover the necessary mathematical concepts during the workshop!
 
 ## Libraries Used
 
-- **scikit-learn**: For implementing linear regression models
+- **scikit-learn**: For implementing linear regression models and evaluation metrics
 - **matplotlib**: For visualizing data and results
-- **numpy**: For performing mathematical operations
+- **numpy**: For performing mathematical operations and data manipulation
 
 ## Workshop Structure
 

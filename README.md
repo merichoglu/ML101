@@ -32,7 +32,7 @@ Welcome to the Linear Regression Workshop for the METU CClub 24-25 season! This 
    - Applying the learned concepts in practice
 
 ## Prerequisites
-- MATH 119 (Calculus I), MATH 120 (Calculus II), MATH 260 (Linear Algebra), STAT 363 (Linear Models) are MUSTs. Said no one ever. But they are nice to have. Just kidding. You don't need to have taken these courses to attend the workshop. We will cover the necessary mathematical concepts during the workshop.
+- MATH 119 (Calculus I), MATH 120 (Calculus II), MATH 260 (Linear Algebra), CENG 222 (Statistical Methods), STAT 363 (Linear Models) are MUSTs. Said no one ever. But they are nice to have. Just kidding. You don't need to have taken these courses to attend the workshop. We will cover the necessary mathematical concepts during the workshop.
 - Basic knowledge of Python programming (printing "Hello, World!", defining variables, etc. Not much honestly. We will cover what is needed.).
 - Familiarity with fundamental mathematical concepts like linear algebra (matrices, vectors, etc.) and calculus (derivatives, integrals, etc.) would make things easier for you, but we will explain everything you need to know.
 - Don't worry, we will cover the necessary mathematical concepts during the workshop!

@@ -33,7 +33,7 @@ Welcome to the first workshop of our new series "ML101-1: Linear Regression" for
 
 ## Prerequisites
 - MATH 119 (Calculus I), MATH 120 (Calculus II), MATH 260 (Linear Algebra), CENG 222 (Statistical Methods), STAT 363 (Linear Models) are MUSTs. Said no one ever. But they are nice to have. Just kidding. You don't need to have taken these courses to attend the workshop. We will cover the necessary mathematical concepts during the workshop.
-- Basic knowledge of Python programming (printing "Hello, World!", defining variables, etc. Not much honestly. We will cover what is needed.).
+- Basic knowledge of Python programming (printing "Hello, World!", defining variables, being able to write or call functions, being familiar with class syntax of Python, etc. Not much honestly. We will cover what is needed.).
 - Familiarity with fundamental mathematical concepts like linear algebra (matrices, vectors, etc.) and calculus (derivatives, integrals, etc.) would make things easier for you, but we will explain everything you need to know.
 - Don't worry, we will cover the necessary mathematical concepts during the workshop!
 

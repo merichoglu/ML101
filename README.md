@@ -1,6 +1,7 @@
-# ML101 - Linear Regression Workshop
+# ML101 - Episode 1
+# Linear Regression Workshop
 
-Welcome to the first workshop of our new series "ML101-1: Linear Regression" for the METU CClub 24-25 season! This workshop is designed to provide you with a comprehensive understanding of linear regression, from its theoretical foundations to practical implementation using Python. By the end of this workshop, you will have a solid grasp of linear regression and be able to apply it to real-world problems.
+Welcome to the first workshop of our new series "ML101": "Linear Regression" for the METU CClub 24-25 season! This workshop is designed to provide you with a comprehensive understanding of linear regression, from its theoretical foundations to practical implementation using Python. By the end of this workshop, you will have a solid grasp of linear regression and be able to apply it to real-world problems.
 
 ## Overview
 
@@ -46,5 +47,17 @@ Welcome to the first workshop of our new series "ML101-1: Linear Regression" for
 ## Workshop Structure
 
 1. **Notebook to follow**
-    - The workshop content is provided in the form of Jupyter notebooks. You can follow along with the code and explanations in the notebooks.
+   - The workshop content is provided in the form of Jupyter notebooks. You can follow alongwith the code and explanations in the notebooks.
+   - The notebooks will be available in the workshop repository, so you can access them anytimeyou want.
+
+2. **Hands-on coding**
+   - We will be writing code during the workshop to implement linear regression models, visualize data, and evaluate model performance. We encourage you to write the code along with us to get a hands-on experience. We also provided some questions for you to solve on your own during the workshop.
+   - You can ask questions at any time during the workshop. We are here to help you! There will be several breaks during the workshop, so you can ask questions during those times as well.
+   - Volunteers will be available to help you with any issues you may encounter, related to the workshop content or otherwise. Just raise your hand, and we will be there to assist you.
+
+3. **Theory and Mathematics**
+   - The field of artificial intelligence and machine learning is based on mathematical concepts. Actually, it's 90% linear algebra, and 10% calculus.
+   - Understanding these concepts is crucial for building a strong foundation in machine learning, so we will cover the necessary mathematical concepts during the workshop.
+   - We will explain the theoretical concepts behind linear regression and the mathematical operations involved. We will also provide real-world examples to help you understand the concepts better.
+   - We will use the blackboard to explain the mathematical concepts. Don't worry if you are not familiar with the mathematical notation. We will explain everything in simple terms. Again, if you don't understand something, feel free to ask questions.
 

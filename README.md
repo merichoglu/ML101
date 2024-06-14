@@ -1,5 +1,6 @@
 # ML101 - Episode 1
-# Linear Regression Workshop
+
+## Linear Regression Workshop
 
 Welcome to the first workshop of our new series "ML101": "Linear Regression" for the METU CClub 24-25 season! This workshop is designed to provide you with a comprehensive understanding of linear regression, from its theoretical foundations to practical implementation using Python. By the end of this workshop, you will have a solid grasp of linear regression and be able to apply it to real-world problems.
 
@@ -33,6 +34,7 @@ Welcome to the first workshop of our new series "ML101": "Linear Regression" for
    - Applying the learned concepts in practice
 
 ## Prerequisites
+
 - MATH 119 (Calculus I), MATH 120 (Calculus II), MATH 260 (Linear Algebra), CENG 222 (Statistical Methods), STAT 363 (Linear Models) are MUSTs. Said no one ever. But they are nice to have. Just kidding. You don't need to have taken these courses to attend the workshop. We will cover the necessary mathematical concepts during the workshop.
 - Basic knowledge of Python programming (printing "Hello, World!", defining variables, being able to write or call functions, being familiar with class syntax of Python, etc. Not much honestly. We will cover what is needed.).
 - Familiarity with fundamental mathematical concepts like linear algebra (matrices, vectors, etc.) and calculus (derivatives, integrals, etc.) would make things easier for you, but we will explain everything you need to know.
@@ -60,4 +62,3 @@ Welcome to the first workshop of our new series "ML101": "Linear Regression" for
    - Understanding these concepts is crucial for building a strong foundation in machine learning, so we will cover the necessary mathematical concepts during the workshop.
    - We will explain the theoretical concepts behind linear regression and the mathematical operations involved. We will also provide real-world examples to help you understand the concepts better.
    - We will use the blackboard to explain the mathematical concepts. Don't worry if you are not familiar with the mathematical notation. We will explain everything in simple terms. Again, if you don't understand something, feel free to ask questions.
-

@@ -50,7 +50,7 @@ Welcome to the first workshop of our new series "ML101": "Linear Regression" for
 
 1. **Notebook to follow**
    - The workshop content is provided in the form of Jupyter notebooks. You can follow alongwith the code and explanations in the notebooks.
-   - The notebooks will be available in the workshop repository, so you can access them anytimeyou want.
+   - The notebooks will be available in the workshop repository, so you can access them any time you want.
 
 2. **Hands-on coding**
    - We will be writing code during the workshop to implement linear regression models, visualize data, and evaluate model performance. We encourage you to write the code along with us to get a hands-on experience. We also provided some questions for you to solve on your own during the workshop.

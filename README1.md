@@ -2,7 +2,7 @@
 
 ## Linear Regression Workshop
 
-Welcome to the first workshop of our new series "ML101": "Linear Regression" for the METU CClub 24-25 season! This workshop is designed to provide you with a comprehensive understanding of linear regression, from its theoretical foundations to practical implementation using Python. By the end of this workshop, you will have a solid grasp of linear regression and be able to apply it to real-world problems.
+Welcome to the first workshop of our new series "ML101": "Linear Regression" for the METU ACM 24-25 season! This workshop is designed to provide you with a comprehensive understanding of linear regression, from its theoretical foundations to practical implementation using Python. By the end of this workshop, you will have a solid grasp of linear regression and be able to apply it to real-world problems.
 
 ## Overview
 
